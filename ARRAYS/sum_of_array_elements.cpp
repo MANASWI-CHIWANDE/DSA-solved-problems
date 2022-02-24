@@ -1,3 +1,7 @@
+/*
+to find sum of all array elements
+*/
+
 // Driver Code Starts
 //Initial Template for C++
 #include <bits/stdc++.h>

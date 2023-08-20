@@ -1,4 +1,4 @@
-package com.company.dynamicProgramming;
+
 /*
 https://practice.geeksforgeeks.org/problems/partitions-with-given-difference/1
 Given an array arr, partition it into two subsets(possibly empty) such that their union is the original array. Let the sum of the element of these two subsets be S1 and S2.

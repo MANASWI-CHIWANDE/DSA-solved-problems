@@ -1,4 +1,4 @@
-package com.company.dynamicProgramming;
+
 /*
 https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 You are given a 0-indexed integer array nums. You have to partition the array into one or more contiguous subarrays.

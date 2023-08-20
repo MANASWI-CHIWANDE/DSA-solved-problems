@@ -1,4 +1,3 @@
-package com.company.dynamicProgramming;
 
 import com.company.AnonyOBJcontructor;
 

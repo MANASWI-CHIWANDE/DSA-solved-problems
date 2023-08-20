@@ -1,4 +1,4 @@
-package com.company.dynamicProgramming;
+
 /*
 https://leetcode.com/problems/target-sum/
 You are given an integer array nums and an integer target.
